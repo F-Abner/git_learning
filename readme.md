@@ -1,6 +1,4 @@
-# say hello
-Hi, we are learning Git together
+Hi, we are learning Git together.
 Have a good time!
-I am winner!
-Keep on!
-difficulty!!
+
+We are going to record some git commands here.
